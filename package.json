@@ -1,6 +1,6 @@
 {
   "name": "above",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Above is a simple pre function hook written in NodeJS",
   "main": "index.js",
   "scripts": {
